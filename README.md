@@ -8,7 +8,6 @@ Currently pretty into React <img src="https://cdn.auth0.com/blog/react-js/react.
 
 Here's some handy links to me across the net 🔗
 
-- [Twitter](https://twitter.com/J_se_h)
 - [LinkedIn](https://www.linkedin.com/in/josephshambrook/)
 - [CodePen](https://codepen.io/josephshambrook/)
 
