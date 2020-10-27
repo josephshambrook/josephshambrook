@@ -1,5 +1,5 @@
 ```js
-const {js} = { js: "Joseph Shambrook" }
+const { js } = { js: "Joseph Shambrook" }
 ```
 
 Hey 👋 I'm **Joe**, a Front End Developer working for [AND Digital](https://and.digital) <img src="https://www.dropbox.com/s/0k7h1dlbr9g9zmq/and.png?raw=1" height="16">
